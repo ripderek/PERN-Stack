@@ -1,0 +1,4 @@
+#modulos de node js, npm i install para instalarlos
+node_modules
+#variables de entorno con la conexion a la bd revisar los nombres en config.js
+.env
